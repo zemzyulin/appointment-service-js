@@ -19,7 +19,7 @@ __Technology: JavaScript, Node.js, Express, MongoDB, Mongoose, REST__
 ### How to run locally
 1. Install project dependencies using `npm install`
 2. Create MongoDB database and name it 'appointments'
-3. Run `npm start` or `npm dev`
+3. Run `npm start` or `npm run dev`
 
 <br>
 <br>
